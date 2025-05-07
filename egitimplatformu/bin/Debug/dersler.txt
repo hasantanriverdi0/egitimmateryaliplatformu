@@ -1,0 +1,2 @@
+Öğrenci: Hasan, Ders: Ders Adı: Felsefe, Eğitim Saati: 3 Saat
+Öğrenci: Hasan, Ders: Ders Adı: Geometri, Eğitim Saati: 6 Saat
